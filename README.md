@@ -11,8 +11,14 @@ Finally a LED was added to signal when the current protection is triggered, such
 
 # Schematics
 
-![](datasheets/power_supply_linkworkd.png)
 ![](schematics/power_supply_protection.svg)
+
+# Power supply under test
+
+This project has been tested with the following ATX power supply
+![](datasheets/power_supply_linkworkd.png)
+
+# Project info
 
 Application: KiCad x86_64 on x86_64
 
@@ -38,5 +44,7 @@ Build Info:
 
 Build settings:
 	KICAD_SPICE=ON
+	
+	
 
 
