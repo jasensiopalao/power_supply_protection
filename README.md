@@ -11,6 +11,7 @@ Finally a LED was added to signal when the current protection is triggered, such
 
 # Schematics
 
+![](datasheets/power_supply_linkworkd.png)
 ![](schematics/power_supply_protection.svg)
 
 Application: KiCad x86_64 on x86_64
